@@ -6,6 +6,6 @@ print(variados[2:4])
 #count para ver quantas ocorrencias de uma determina coisa aparece
 print(variados.count("luan"))
 
-tupla_test = (1,2,3)
+tupla_test = (1,2,3,2)
 
-print(tupla_test.index(2))
+print(tupla_test.index(6))
