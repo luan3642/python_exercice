@@ -27,3 +27,7 @@ if a != True:
 else:
     print("falso")
 
+
+a = True
+
+print(not(a))
