@@ -11,3 +11,13 @@ print(len(valores))
 
 if 9 in valores:
     print("tem valor")
+
+
+xs = [x for x in range(10)]
+
+print(xs)
+
+
+# imprimindo valores menores que 5
+
+print([c for c in range(1,20) if c <= 5])
