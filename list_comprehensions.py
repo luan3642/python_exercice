@@ -21,3 +21,9 @@ print(xs)
 # imprimindo valores menores que 5
 
 print([c for c in range(1,20) if c <= 5])
+
+frutas = ["maca", "banana", "morango"]
+
+new_fruits = [fruta.upper() for fruta in frutas]
+
+print(new_fruits)
