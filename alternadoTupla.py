@@ -42,3 +42,9 @@ dogs_list.remove("pug")
 dogs_tuple_changeable = tuple(dogs_list)
 
 print(dogs_tuple_changeable)
+
+#deleta a tupla por completo
+
+del(dogs_tuple_changeable)
+
+print(dogs_tuple_changeable)
