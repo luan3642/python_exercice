@@ -56,3 +56,15 @@ xxx = "luan \" senior \"cargo"
 
 
 print(xxx)
+
+a = """"
+fdfdfdfdfdfdfd
+fdfdfdfd
+fdfdfd
+"""
+
+v = '''''
+rererererererere
+fdfdfdfd
+rerererere
+'''
